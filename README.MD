@@ -8,7 +8,7 @@
 
 <br>
 <div align="center">
-  <h3> Aridium API — Sobre </h3>
+  <h3> Nitrogen — Sobre </h3>
 Nitrogen é um BOT de Discord que utiliza o AridiumAPI para ajudar traders do Counter-Strike a acharem items no BUFF163 e na Dash Skins.
 
 OBS: ESTE PROJETO NÃO ESTÁ PRONTO E NÃO ESTÁ FUNCIONANDO COMPLETAMENTE NO MOMENTO.
